@@ -26,6 +26,7 @@ module.exports = {
 		"simple-import-sort",
 		"react-hooks",
 	],
+	root: true,
 	rules: {
 		"react-refresh/only-export-components": "warn",
 		"simple-import-sort/imports": "error",
